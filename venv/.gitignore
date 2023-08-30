@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+.idea
+homework/.pytest_cache/
+homework/__pycache__/
